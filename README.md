@@ -1,4 +1,4 @@
 # Schema - Massacre 
 Single page con Schemas
 
-<strong>https://marcelaueno.github.io/Schema/</strong>
+<strong style="color: coral;"><a target="_blank">https://marcelaueno.github.io/Schema/</a></strong>
